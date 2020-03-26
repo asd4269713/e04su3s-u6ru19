@@ -1,4 +1,5 @@
 def calculate(x,y,z):
+    w=123
     return x*y,x*x,y*y
 r1,r2,r3=calculate(1,2,3)
 print(r1,r2,r3)
